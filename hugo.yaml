@@ -2,7 +2,7 @@
 baseURL: https://ApollocreedXI.github.io/
 
 languageCode: bn
-title: "Roydan's Data Porfolio"
+title: "Roydan's Data Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -25,7 +25,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Roydan's Data Porfolio"
+    title: "Roydan's Data Portfolio"
     weight: 1
   # bn:
   #   languageCode: bn

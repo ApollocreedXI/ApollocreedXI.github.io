@@ -21,7 +21,7 @@ buttons:
 
 # your projects
 projects:
-- name: Causal Inferance
+- name: Causal impact of financial literacy on financial well-being
   logo: # /images/sections/projects/kubernetes.png
   role: Contributor
   timeline: "Dec 2025"
@@ -30,7 +30,7 @@ projects:
   summary: The purpose of this research study was to investigate the causal effects of financial literacy on financial well-being using double machine learning
   tags: ["Machine Learning"]
 
-- name: Home Value Predictions
+- name: Home Value Predictions using regularized linear modeling
   logo: # /images/sections/projects/tensorflow.png
   role: Contributor
   timeline: "Mar 2025"
@@ -39,7 +39,7 @@ projects:
   summary: This project centered on utilizing Iowa home sales data to investigate what features are most important to a property's valuation and how accurately home prices can be predicted using regularized linear regression
   tags: ["Machine Learning"]
 
-- name: History of Computer Vision
+- name: The History of Computer Vision
   role: Contributor
   timeline: "Jan 2026"
   url: "https://1drv.ms/b/c/29eb65febd53f90e/IQD6c8n8FgPVT7-pIMKYgSugAcET4CFdVjI1-9mtmZ-ZBQc?e=KvBQg7"

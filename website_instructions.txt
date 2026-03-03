@@ -1,0 +1,13 @@
+1. go into root directory: cd ~/projects/website/professional_website5/toha-example-site
+
+2. run the dependency manager command: mise run server
+
+3. if there is no error, the local link with output to copy and paste
+
+3. When you change things sections (e.g., xxx.yaml) it will auto populate
+
+4. If you change anything in the hugo.yaml file this will cause an error. This is becase this fill generates new html files to the public folder. Since we dont have access to that folder hugo spits out an error.
+
+5. If this occurs use the following command:
+rm -rf public
+mise run server

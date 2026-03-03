@@ -23,6 +23,30 @@ degrees:
     scale: GPA
     achieved: 3.79
     outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Intro to Human Centered Data Science
+      achieved: 3
+      outOf: 4
+    - name: Deep Learning and AI
+      achieved: 3
+      outOf: 4
+    - name: Applied AI and Machine Learning
+      achieved: 3
+      outOf: 4
+    - name:  Database Systems and Data Preparation
+      achieved: 3
+      outOf: 4
+    - name: Applied Math for Data Science
+      achieved: 3
+      outOf: 4
+    - name: Multivariate Statistics
+      achieved: 3
+      outOf: 4
+
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
@@ -44,7 +68,7 @@ degrees:
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
     scale: GPA
-    achieved: 3.9
+    achieved: 3.92
     outOf: 4
   # takenCourses: #(optional)
   #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
