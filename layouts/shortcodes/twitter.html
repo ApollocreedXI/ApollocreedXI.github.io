@@ -1,0 +1,11 @@
+{{ $raw := .Get 0 | default "" }}
+{{ $url := $raw }}
+
+{{ if not (strings.HasPrefix $raw "http") }}
+  {{ $url = printf "https://twitter.com/i/web/status/%s" $raw }}
+{{ end }}
+
+<blockquote class="twitter-tweet">
+  <a href="{{ $url }}"></a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
