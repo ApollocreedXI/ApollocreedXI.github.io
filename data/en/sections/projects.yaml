@@ -16,12 +16,12 @@ buttons:
   filter: "Machine Learning"
 - name: Academic Papers
   filter: "Academic Papers"
-- name: Comming Soon
-  filter: "Comming Soon"
+#- name: Comming Soon
+#  filter: "Comming Soon"
 
 # your projects
 projects:
-- name: Causal impact of financial literacy on financial well-being
+- name: Causal Impact of Financial Literacy on Financial Well-Being
   logo: # /images/sections/projects/kubernetes.png
   role: Contributor
   timeline: "Dec 2025"
@@ -30,7 +30,7 @@ projects:
   summary: The purpose of this research study was to investigate the causal effects of financial literacy on financial well-being using double machine learning
   tags: ["Machine Learning"]
 
-- name: Home Value Predictions using regularized linear modeling
+- name: Home Value Predictions Using Regularized Linear Modeling
   logo: # /images/sections/projects/tensorflow.png
   role: Contributor
   timeline: "Mar 2025"
@@ -46,14 +46,14 @@ projects:
   summary: This paper provides a short history on computer vision presenting the paradigmn shift from a pure vision to an interactive visionary approach that led to the advent of modern computer vision.
   tags: ["Academic Papers"]
 
-- name: Medical imaging illness classification
+- name: Computer Vision - Brain Cancer Medical Imaging Classification
   logo: #/images/sections/projects/no-code.png
   role: Contributor
-  timeline: "Currently working on"
-  repo: # https://github.com/kelseyhightower/nocode
+  timeline: "Feb 2026"
+  repo: https://github.com/ApollocreedXI/Brain-Cancer-Medical-Imaging-Classification/tree/main
   #url: ""
-  summary: This project will utilize a deep convolutional neural network to classify medical image data into three illnesses. 
-  tags: ["Machine Learning", "Comming Soon"]
+  summary: This project employs a deep convolutional neural network, implemented via Keras, to classify medical image data into three brain cancer classifications. 
+  tags: ["Machine Learning", "Convolutional Neural Network", 'Res-Net', 'Keras']
 
 # - name: Toha
 #   logo: /images/sections/projects/toha.png
