@@ -19,6 +19,8 @@ buttons:
   filter: "language"
 - name: Data Visualization
   filter: "Data Visualization"
+- name: Spatial Analysis
+  filter: Spatial Analysis
 - name: Others
   filter: "others"
 
@@ -61,6 +63,12 @@ skills:
   categories: ["Data Visualization"]
   url: "https://seaborn.pydata.org/"
 
+- name: Plotly
+  logo: /images/sections/skills/plotly-logo.png
+  summary: "A powerful visualization library used to create high-quality interative graphs. I have utilized this package for creating beautiful interative spatial visualizations."
+  categories: ["Data Visualization"]
+  url: "https://plotly.com/python/"
+
 - name: Altair
   logo: /images/sections/skills/Altair.png
   summary: "A powerful declarative visualization library with rich interactive tools for deeper, more engaging visualizations. One of my go-to visualization libraries for its rich customization and interactive features."
@@ -87,3 +95,21 @@ skills:
   logo: #/images/sections/skills/python-logo_imresizer.png
   summary: "A structured query language for interacting with structured data stored in a database. Through an advanced database graduate course, I have acquired deep knowledge of database best practices and how to implement this via SQL."
   categories: ["language"]
+
+- name: GeoPandas
+  logo: #/images/sections/skills/geopandas_logo.png
+  summary: "An extention of Pandas that allows for working with vector spatial data (e.g., polygons, points) within a dataframe data structure."
+  categories: ["Spatial Analysis"]
+  url: "https://geopandas.org/en/stable/getting_started/introduction.html"
+
+- name: Rasterio
+  logo: #/images/sections/skills/geopandas_logo.png
+  summary: "A low-level python library for working with spatial data (e.g., rasterized data, GeoTiff)."
+  categories: ["Spatial Analysis"]
+  url: https://rasterio.readthedocs.io/en/latest/index.html
+
+- name: Rioxarray
+  logo: #/images/sections/skills/geopandas_logo.png
+  summary: "High-level python libary built upon xarray and rasterio for working with spatial data."
+  categories: ["Spatial Analysis"]
+  url: "https://corteva.github.io/rioxarray/html/rioxarray.html"

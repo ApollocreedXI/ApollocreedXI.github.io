@@ -21,7 +21,7 @@ degrees:
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 3.79
+    achieved: 3.84
     outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.

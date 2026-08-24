@@ -14,6 +14,10 @@ buttons:
   filter: "all"
 - name: Machine Learning
   filter: "Machine Learning"
+- name: Deep Learning
+  filter: "Deep Learning"
+- name: Data Engineering
+  filter: Data Engineering 
 - name: Academic Papers
   filter: "Academic Papers"
 #- name: Comming Soon
@@ -27,8 +31,8 @@ projects:
   timeline: "Dec 2025"
   repo: https://github.com/ApollocreedXI/Causal-Inferance # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: The purpose of this research study was to investigate the causal effects of financial literacy on financial well-being using double machine learning
-  tags: ["Machine Learning"]
+  summary: The purpose of this research study was to investigate the causal effects of financial literacy on financial well-being using causal inferance.
+  tags: ["Machine Learning", "Double-machine learning"]
 
 - name: Home Value Predictions Using Regularized Linear Modeling
   logo: # /images/sections/projects/tensorflow.png
@@ -46,6 +50,13 @@ projects:
   summary: This paper provides a short history on computer vision presenting the paradigmn shift from a pure vision to an interactive visionary approach that led to the advent of modern computer vision.
   tags: ["Academic Papers"]
 
+- name: Resilience Testing a Fine-Tuned AI Detector Against Tiered Prompt Attacks
+  role: Contributor
+  timeline: "Aug 2026"
+  url: "https://1drv.ms/b/c/29eb65febd53f90e/IQDZlV-45YFDSoHdtaiRStvrAc4IQ_Emp6wg3zsq9K48v5w?e=4HxiAk"
+  summary: A research paper that investigates the resilience of a current state-of-the-art (SOTA) AI-generated content detector (AIGC) against increasingly complex prompt attacks. The research found that the SOTA AIGC detector is fairly robust to adversarial prompt attacks, but remains vulnerable to paraphrased student essays with essay development constraints included in the input prompt. The research demonstrated that including these adversarial prompting strategies back into the training dataset recovered all performance loss exhibited in the baseline AIGC detector trained on simple prompting strategies. 
+  tags: ["Deep Learning", "PyTorch", "BERT", "Transformers"]
+
 - name: Computer Vision - Brain Cancer Medical Imaging Classification
   logo: #/images/sections/projects/no-code.png
   role: Contributor
@@ -53,7 +64,24 @@ projects:
   repo: https://github.com/ApollocreedXI/Brain-Cancer-Medical-Imaging-Classification/tree/main
   #url: ""
   summary: This project employs a deep convolutional neural network, implemented via Keras, to classify medical image data into three brain cancer classifications. 
-  tags: ["Machine Learning", "Convolutional Neural Network", 'Res-Net', 'Keras']
+  tags: ["Deep Learning", "Convolutional Neural Network", 'Res-Net', 'Keras']
+
+- name: Utilizing news sentiment to predict the future daily price of the Vanguard Information Technology ETF
+  logo: #/images/sections/projects/no-code.png
+  role: Contributor
+  timeline: "Jan 2026"
+  repo: https://github.com/ApollocreedXI/Utilizing-news-sentiment-to-predict-future-price-of-the-Vanguard-ETF/tree/main
+  #url: ""
+  summary:  This project investigated the extent to which sentiment analysis of news articles alongside univariate price improves the predictive performance of network modeling on the Vanguard Technology ETF. It also investigated whether such models have meaningful improvements over a baseline ARIMA model. The project results supported that network models which incorporate news sentiment and univariate price show performance improvement over a univariate LSTM model. However, adding news sentiment alongside univariate price in neural networks was not found to exceed the performance of the baseline ARIMA model. This finding likely due to the lack of sufficient training data to train the neural networks, rather than the ARIMA model being more powerful.
+  tags: ["Deep Learning", "LSTM Networks", 'Transformer', 'GRU Networks', "ARIMA", "Data Augmentation", "Fin-BERT"]
+
+- name: Database Design for Climate-Resilient Water Management Systems in Tanzania
+  logo: #/images/sections/projects/no-code.png
+  role: Contributor
+  timeline: "Aug 2026"
+  url: "https://climate-resilient-database.streamlit.app/"
+  summary: This graduate capstone project purpose was to support Tanazia's new water policy, which among other things, was to develop a national water grid. In developing this new infrastructure, policymakers will find it beneficial to evaluate communities that are most vulnerable to the impact of climate change (e.g., more susceptible to droughts and floods) and prioritize investment there. However, investment prioritization is a challenge as Tanzania’s water management system employs a decentralized structure, creating disparate information regarding administrative water management constructs. This capstone project creates a database to unify this disparate information of the water management constructs. Furthermore, using the created database, low-water resilient regions are identifitied and visualized to assist prioritized grid investment. 
+  tags: ["Data Engineering", "Machine Learning", "K-means clustering", "Streamlit", "Dashboard", "PostGis", "Rioxarray", "Rasterio", "GeoPandas", "Dask", "SQLAlchemy"]
 
 # - name: Toha
 #   logo: /images/sections/projects/toha.png
