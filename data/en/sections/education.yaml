@@ -31,13 +31,13 @@ degrees:
     - name: Intro to Human Centered Data Science
       achieved: 3
       outOf: 4
+    - name: Natural Language Processing
+      achieved: 3
+      outOf: 4
+    - name: Database Systems and Data Preparation
+      achieved: 3
+      outOf: 4
     - name: Deep Learning and AI
-      achieved: 3
-      outOf: 4
-    - name: Applied AI and Machine Learning
-      achieved: 3
-      outOf: 4
-    - name:  Database Systems and Data Preparation
       achieved: 3
       outOf: 4
     - name: Applied Math for Data Science
@@ -46,6 +46,22 @@ degrees:
     - name: Multivariate Statistics
       achieved: 3
       outOf: 4
+    - name: Data Visualization and Storytelling
+      achieved: 3
+      outOf: 4
+    - name: Applied AI and Machine Learning
+      achieved: 3
+      outOf: 4
+    - name: General Linear Models
+      achieved: 3
+      outOf: 4
+    - name: Programming for Data Science
+      achieved: 3
+      outOf: 4
+    
+    
+    
+    
 
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -96,7 +112,7 @@ degrees:
   - Fed Challenge
   customSections: #(optional)
     - name: Acheivements
-      content: I was selected to join the Omicron Delta Epsilon (ODE) International Honor Society for Economics as a member in my senior year. This is a lifetime credential that showcases an individual's dedication to the field of economics. Additionally, in my senior year, I was selected to become an MIT IDDEAS Scholar. IDDEAS Scholars are individuals who are selected for their research interests and potential as doctoral students. These students participate in a two-day immersive summit where they learn about doctoral-level research, discuss careers in academia, and gain advice about graduate school opportunities.  
+      content: Selected to join the Omicron Delta Epsilon (ODE) International Honor Society for Economics. This is a lifetime credential that showcases an individual's dedication to the field of economics. Additionally, during my senior year, I was selected to become an MIT IDDEAS Scholar. IDDEAS Scholars are individuals who are selected for their research interests and potential as doctoral students. These students participate in a two-day immersive summit where they learn about doctoral-level research, discuss careers in academia, and gain advice about graduate school opportunities.  
     # - name: Supervisor
     #   content: Fusce eu augue ut odio porttitor pulvinar.
 

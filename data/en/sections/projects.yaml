@@ -32,7 +32,7 @@ projects:
   repo: https://github.com/ApollocreedXI/Causal-Inferance # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: The purpose of this research study was to investigate the causal effects of financial literacy on financial well-being using causal inferance.
-  tags: ["Machine Learning", "Double-machine learning"]
+  tags: ["Machine Learning", "Double-machine learning", "Causal Inferance"]
 
 - name: Home Value Predictions Using Regularized Linear Modeling
   logo: # /images/sections/projects/tensorflow.png
@@ -41,7 +41,7 @@ projects:
   repo: https://github.com/ApollocreedXI/Home-Value-Predictions
   #url: ""
   summary: This project centered on utilizing Iowa home sales data to investigate what features are most important to a property's valuation and how accurately home prices can be predicted using regularized linear regression
-  tags: ["Machine Learning"]
+  tags: ["Machine Learning", "Lasso Regression", "EDA", "Pandas", "Seaborn"]
 
 - name: The History of Computer Vision
   role: Contributor
@@ -80,7 +80,7 @@ projects:
   role: Contributor
   timeline: "Aug 2026"
   url: "https://climate-resilient-database.streamlit.app/"
-  summary: This graduate capstone project purpose was to support Tanazia's new water policy, which among other things, was to develop a national water grid. In developing this new infrastructure, policymakers will find it beneficial to evaluate communities that are most vulnerable to the impact of climate change (e.g., more susceptible to droughts and floods) and prioritize investment there. However, investment prioritization is a challenge as Tanzania’s water management system employs a decentralized structure, creating disparate information regarding administrative water management constructs. This capstone project creates a database to unify this disparate information of the water management constructs. Furthermore, using the created database, low-water resilient regions are identifitied and visualized to assist prioritized grid investment. 
+  summary: This graduate capstone project purpose was to support Tanazia's new water policy, which among other things, was to develop a national water grid. In developing this new infrastructure, policymakers will find it beneficial to evaluate communities that are most vulnerable to the impact of climate change (e.g., more susceptible to droughts and floods) and prioritize investment there. However, investment prioritization is a challenge as Tanzania’s water management system employs a decentralized structure, creating disparate information regarding administrative water management constructs. This capstone project creates a database to unify this disparate information of the water management constructs. Furthermore, using the created database, low-water resilient regions are identified and visualized to assist prioritized grid investment. 
   tags: ["Data Engineering", "Machine Learning", "K-means clustering", "Streamlit", "Dashboard", "PostGis", "Rioxarray", "Rasterio", "GeoPandas", "Dask", "SQLAlchemy"]
 
 # - name: Toha
