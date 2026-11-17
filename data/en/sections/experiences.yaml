@@ -20,15 +20,18 @@ experiences:
     # company overview
     overview: Meran Tax is a small business providing accounting, bookkeeping, tax, and payroll services to local businesses.
   positions:
-  - designation: Accounting Bookkeeper
+  - designation: AI-Enabled Bookkeeper
     start: Dec 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Manage the bookkeeping of 30+ small businesses in industries such as restaurants, construction, grocery stores, day cares, and others. 
-    - Create ad-hoc financial reporting for various purposes, such as loan approvals for business expansions, and for informative client purposes on business operations.
-    - Tasked with converting a manual bookkeeping process into a semi-automated process in QuickBooks, resulting in more than 2x reduction in bookkeeping processing time.
+    - Leading a deep learning computer vision project to automate the firm’s manual entry of check data from bank statements to improve accounting workflows.
+    - Restructured a manual bookkeeping process to an efficient semi-automated process, doubling the firm’s bookkeeping productivity.  
+    - Manage the bookkeeping of 30+ small businesses from a variety of industries, including grocery stores, day care centers, restaurants, and more.  
+    - Managed regulatory and compliance-related projects, including SEC annual filings and workers' compensation audits.
+    - Prepared and analyzed financial statements, including profit and loss reports, to support client decision-making and business performance evaluation.
+    - Implemented OCR-based bank statement processing software, reducing manual data entry and improving efficiency for clients with limited digital financial records.
 
     
   # Can have multiple positions at a company
@@ -55,11 +58,12 @@ experiences:
     start: Aug 2023
     end: Apr 2025
     responsibilities:
-    - Streamlined intercompany postings using a semiautomated procedure that organizes corporate activities by type, such as revenue or expense.
-    - Set up advanced AP (Accounts payable) Excel spreadsheets to track payments for contract-based physician contracts.
-    - Close the monthly fiscal period.
-    - Prepare monthly journal entries, analyses, and account reconciliations as required accurately.
-    - Prepare and post key hospital indicators and statistics.
+    - Posted and reconciled high-dollar impact journal entries for the New Hampshire market, including prepaid amortization, intercompany transactions, and corporate transfer entries.
+    - Recorded and managed high-value accounting entries for physician accounts payable and medical office building lockbox revenue and accounts receivable activity.
+    - Developed an Excel Power Query to automate the data preprocessing of our corporate intercompany postings across the market, improving journal entry posting productivity during month-end.
+    - Worked on annual financial and regulatory reporting, including tax filings and hospital cost reports.
+    - Managed contract-based physician agreements, reviewing contract terms and preparing payment packets to ensure compliance with contractual obligations..
+    - Conducted inventory audits during the New Hampshire market (i.e., three hospitals) annual inventory, ensuring accurate tracking of hospital assets.
 
 
 - company:
